@@ -31,6 +31,12 @@ export default function Container({ children }) {
           <NextLink href="/">
             <a className="p-1 sm:p-4 text-gray-900 dark:text-gray-100">Home</a>
           </NextLink>
+          <NextLink href="/post/66">
+            <a className="p-1 sm:p-4 text-gray-900 dark:text-gray-100">Post</a>
+          </NextLink>
+          <NextLink href="/pokemon/pikachu">
+            <a className="p-1 sm:p-4 text-gray-900 dark:text-gray-100">Pokemon</a>
+          </NextLink>
           <NextLink href="/custom-404-page">
             <a className="p-1 sm:p-4 text-gray-900 dark:text-gray-100">404</a>
           </NextLink>
