@@ -5,10 +5,10 @@ export default function Home() {
   return (
     <Container>
       <Head>
-        <title>Create Next App</title>
+        <title>Custom Error Page</title>
       </Head>
 
-      <h1>Hello, nerds</h1>
+      <h1>404</h1>
     </Container>
   );
 }
