@@ -5,7 +5,7 @@ export default function Home() {
   return (
     <Container>
       <Head>
-        <title>Create Next App</title>
+        <title>Hello Nerds</title>
       </Head>
 
       <h1>Hello, nerds</h1>
