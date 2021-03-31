@@ -28,8 +28,10 @@ export async function getStaticPaths() {
 
   return {
     paths,
-    fallback: false, // If not found return 404
-    // fallback: true, // If not found use server-side rendering with the next-on-netlify package.
+    fallback: true, // If not found return 404
+    // fallback: true is meant for building pages on-demand after a build has occurred.
+    // If you would like the `fallback: true` behavior, `next export` should not be used.
+    // https://nextjs.org/docs/messages/ssg-fallback-true-export
   };
 }
 
