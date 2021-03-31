@@ -28,7 +28,7 @@ export async function getStaticPaths() {
 
   return {
     paths,
-    fallback: true, // If not found return 404
+    fallback: false, // If not found return 404
     // fallback: true, // If not found use server-side rendering with the next-on-netlify package.
   };
 }
