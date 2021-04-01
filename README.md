@@ -73,15 +73,6 @@ export default MyApp;
 
 If you've chosen to use a different file than the default `globals.css` file, you'll want to update the import accordingly.
 
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
 ## Deploy
 
 The easiest way to deploy your Next.js app is to use the [Vercel](https://vercel.com) (from the creators of Next.js), or [Netlify](https://netlify.com).
@@ -95,3 +86,12 @@ This is a basic example of a `netlify.toml` setup file:
 ```
 
 Check out [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
+## Learn More
+
+To learn more about Next.js, take a look at the following resources:
+
+- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
+- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+
+You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
