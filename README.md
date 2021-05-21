@@ -6,7 +6,6 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 - Minimal NextJS setup
 - [TailwindCSS](https://tailwindcss.com/), a Utility-first CSS framework
-- [TailwindCSS JIT](https://github.com/tailwindlabs/tailwindcss-jit) to generate styles on demand
 - Light/Dark mode support
 - Links and Static Routing examples
 - Dynamic Routes examples using the [RESTful Pokémon API](https://pokeapi.co/)
